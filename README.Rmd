@@ -40,13 +40,13 @@ conservation scores and protein-impact predictions.
 | **Performance** | ~86.69s on `mirage_toy` (282 genes) | **~2.27s** (**38.2x speedup**) |
 | **Numerical equivalence** | n/a | Max posterior-probability difference 4.6e-5. delta is 0.925347 vs 0.925379. |
 
-Runtime numbers come from a single run of both packages on the mirage_toy dataset (1000 variants across 282 genes) on Windows 11 with R 4.6.0. Timings depend on the machine, and the original mirage package has to be installed for a side-by-side comparison. See the [benchmark vignette](https://anson-li8.github.io/mirageV2/articles/benchmark.html) for detailed timing and equivalence results.
+Runtime numbers come from a single run of both packages on the mirage_toy dataset (1000 variants across 282 genes) on Windows 11 with R 4.6.0. Timings depend on the machine, and the original mirage package has to be installed for a side-by-side comparison. See the [benchmark vignette](https://shan-team.github.io/mirageV2/articles/benchmark.html) for detailed timing and equivalence results.
 
 ## Installation
 
 ```{r, eval = FALSE}
 # install.packages("devtools")
-devtools::install_github("anson-li8/mirageV2")
+devtools::install_github("shan-team/mirageV2")
 ```
 
 ## Quick start

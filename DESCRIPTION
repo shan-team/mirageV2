@@ -11,9 +11,9 @@ Description: Gene-level and variant-set rare-variant association tests using the
     A high-performance rewrite of the GitHub package 'mirage', with input checks
     and S3 methods for printing, summarizing, and tidying results.
 License: MIT + file LICENSE
-URL: https://github.com/anson-li8/mirageV2,
-    https://anson-li8.github.io/mirageV2
-BugReports: https://github.com/anson-li8/mirageV2/issues
+URL: https://github.com/shan-team/mirageV2,
+    https://shan-team.github.io/mirageV2
+BugReports: https://github.com/shan-team/mirageV2/issues
 Imports:
     cli,
     generics,

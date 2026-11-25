@@ -17,7 +17,7 @@ knitr::opts_chunk$set(collapse = TRUE, comment = "#>")
 The package is installed from GitHub:
 
 ```{r, eval=FALSE}
-devtools::install_github("anson-li8/mirageV2")
+devtools::install_github("shan-team/mirageV2")
 ```
 
 ## Input format

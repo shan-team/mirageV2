@@ -11,9 +11,9 @@ Gene-level and variant-set rare-variant association tests using the MIRAGE mixtu
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://github.com/anson-li8/mirageV2}
-  \item \url{https://anson-li8.github.io/mirageV2}
-  \item Report bugs at \url{https://github.com/anson-li8/mirageV2/issues}
+  \item \url{https://github.com/shan-team/mirageV2}
+  \item \url{https://shan-team.github.io/mirageV2}
+  \item Report bugs at \url{https://github.com/shan-team/mirageV2/issues}
 }
 
 }

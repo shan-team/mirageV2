@@ -34,14 +34,14 @@ Runtime numbers come from a single run of both packages on the
 mirage_toy dataset (1000 variants across 282 genes) on Windows 11 with R
 4.6.0. Timings depend on the machine, and the original mirage package
 has to be installed for a side-by-side comparison. See the [benchmark
-vignette](https://anson-li8.github.io/mirageV2/articles/benchmark.html)
+vignette](https://shan-team.github.io/mirageV2/articles/benchmark.html)
 for detailed timing and equivalence results.
 
 ## Installation
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("anson-li8/mirageV2")
+devtools::install_github("shan-team/mirageV2")
 ```
 
 ## Quick start
