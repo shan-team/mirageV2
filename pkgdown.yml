@@ -4,4 +4,7 @@ pkgdown_sha: ~
 articles:
   benchmark: benchmark.html
   getting-started: getting-started.html
-last_built: 2026-11-09T22:13Z
+last_built: 2026-11-25T15:25Z
+urls:
+  reference: https://shan-team.github.io/mirageV2/reference
+  article: https://shan-team.github.io/mirageV2/articles
